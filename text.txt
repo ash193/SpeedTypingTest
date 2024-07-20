@@ -1,0 +1,6 @@
+Solar energy harnesses the power of the sun through photovoltaic cells,
+converting sunlight into electricity. Advances in solar technology have made it more efficient and affordable,
+leading to widespread adoption in both residential and commercial sectors. Wind energy,
+captured through wind turbines, is another rapidly growing source of renewable energy.
+Wind farms, often located in rural or offshore areas, generate substantial amounts of electricity without
+emitting greenhouse gases.
